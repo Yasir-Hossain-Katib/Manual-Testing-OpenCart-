@@ -5,17 +5,17 @@ This repository contains documentation and test cases related to the manual test
 # Contents
 The following files are available in this repository:
 
-Bug Report (1).xlsx: Contains details of bugs found during testing. Each bug report includes a description, steps to reproduce, expected behavior, actual behavior, and the status of the bug.
+Bug Report.xlsx: Contains details of bugs found during testing. Each bug report includes a description, steps to reproduce, expected behavior, actual behavior, and the status of the bug.
 
 OpenCart-FRS.pdf: The Functional Requirements Specification (FRS) document for OpenCart. This outlines the features and functionality that were tested.
 
 Requirements Traceability Matrix.xlsx: Maps the test cases to the corresponding requirements, ensuring that all features of OpenCart were covered during testing.
 
-Test Cases (1).xlsx: A collection of test cases written to validate various functionalities of the OpenCart system. This file includes the description of each test case, preconditions, steps to execute, expected result, and actual result.
+Test Cases.xlsx: A collection of test cases written to validate various functionalities of the OpenCart system. This file includes the description of each test case, preconditions, steps to execute, expected result, and actual result.
 
 Test Cases Execution.xlsx: Documents the execution of the test cases. It includes information about which test cases were executed, their status (pass/fail), and any additional notes during execution.
 
-Test Scenarios (1).xlsx: Lists various test scenarios for OpenCart. These scenarios represent high-level test objectives that were used to guide the test case development.
+Test Scenarios.xlsx: Lists various test scenarios for OpenCart. These scenarios represent high-level test objectives that were used to guide the test case development.
 
 # Project Overview
 OpenCart is an open-source eCommerce platform that allows businesses to create an online store. This project involved manually testing various functionalities of OpenCart to ensure they meet the specified requirements.
