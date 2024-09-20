@@ -2,7 +2,7 @@
 
 This repository contains documentation and test cases related to the manual testing of the OpenCart system. The objective of this repository is to document the testing process, including test scenarios, test case execution, bug reports, and traceability to requirements.
 
-#Contents
+# Contents
 The following files are available in this repository:
 
 Bug Report (1).xlsx: Contains details of bugs found during testing. Each bug report includes a description, steps to reproduce, expected behavior, actual behavior, and the status of the bug.
@@ -17,15 +17,15 @@ Test Cases Execution.xlsx: Documents the execution of the test cases. It include
 
 Test Scenarios (1).xlsx: Lists various test scenarios for OpenCart. These scenarios represent high-level test objectives that were used to guide the test case development.
 
-#Project Overview
+# Project Overview
 OpenCart is an open-source eCommerce platform that allows businesses to create an online store. This project involved manually testing various functionalities of OpenCart to ensure they meet the specified requirements.
 
-#Testing Approach
+# Testing Approach
 Manual Testing: All tests were conducted manually to validate the behavior of OpenCart’s features against its functional requirements.
 Requirements Coverage: Each requirement listed in the FRS was mapped to specific test cases, ensuring full coverage of the system’s functionality.
 Bug Reporting: Any discrepancies between expected and actual results were documented in the bug report, which is also included in this repository.  
 
-#Test Types
+# Test Types
 The following types of testing were carried out:
 
 Functional Testing: Verifying that all functions of OpenCart work according to the requirements.
